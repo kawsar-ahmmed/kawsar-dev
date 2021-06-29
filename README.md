@@ -1,13 +1,24 @@
-![Full Stack Developer, JavaScript, NodeJS, React](https://github.com/kawsar91221/kawsar91221/blob/main/kawsar91221.png?raw=true)
-### Hi there 👋, Kawsar Ahmmed
+
+<p align="center">
+<br><img src="https://github.com/kawsar91221/kawsar91221/blob/main/hadder.gif" width="380px"><br><br>
+</p>
+<h3 align="right">Connect with me :</h3>
+<a href="https://linkedin.com/in/kawsar91221">
+  <img align="right" alt="kawsar - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<!--<a href="">
+  <img align="right" alt="Chiraag Kakar - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
+</a>-->
+<a href="https://instagram.com/kawsar91221">
+  <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://www.facebook.com/hello.kawsar/">
+  <img align="right" alt="kawsar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<br/>
+<h2 align="center">Hi 👋, I'm Kaawsar Ahmmed </h1>
+
 #### Full Stack Developer, JavaScript, NodeJS, React
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
-[![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
-[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
-<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
 Hi, I am Kawsar,
 React & Node JS developer. Good understanding and usage of states and props. Understanding of React Virtual Dom, unidirectional data flow. EcmaScript6 (ES6): arrow functions, constants, block-scope variables, class, inheritance.
@@ -36,3 +47,19 @@ I worked with projects in Fintech, eCommerce, Healthcare, Big Data and collabora
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=kawsar91221&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar91221&theme=radical"/>|
 |---|---|
+
+
+<a href="https://www.linkedin.com/in/kawsar91221/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/kawsar91221">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<a href="mailto:kawsarahmmedr@gmail.com">
+  <img align="left" alt="kawsar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br/>
+<br/>
+
