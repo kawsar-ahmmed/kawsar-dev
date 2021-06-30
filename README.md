@@ -47,19 +47,3 @@ I worked with projects in Fintech, eCommerce, Healthcare, Big Data and collabora
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=kawsar91221&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar91221&theme=radical"/>|
 |---|---|
-
-
-<a href="https://www.linkedin.com/in/kawsar91221/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/kawsar91221">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="mailto:kawsarahmmedr@gmail.com">
-  <img align="left" alt="kawsar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br/>
-<br/>
-
