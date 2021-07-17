@@ -45,5 +45,5 @@ I worked with projects in Fintech, eCommerce, Healthcare, Big Data and collabora
 
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=kawsar91221&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar91221&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=kawsar-dev&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-dev&theme=radical"/>|
 |---|---|
